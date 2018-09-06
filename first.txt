@@ -1,3 +1,2 @@
 Writing something at the head of the first file in a new feature.
 My first file
-Second line in first file.
