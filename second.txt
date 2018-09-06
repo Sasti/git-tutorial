@@ -1,2 +1,5 @@
 This is the second file from the git tutorial.
-I don't like conflicts!
+
+C1 -> I don't like conflicts!
+C2 -> I really really like conflicts!
+
