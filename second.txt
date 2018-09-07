@@ -3,3 +3,4 @@ This is the second file from the git tutorial.
 C1 -> I don't like conflicts!
 C2 -> I really really like conflicts!
 
+Second change by N1
