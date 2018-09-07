@@ -1,5 +1,7 @@
 This is the second file from the git tutorial.
 
+This is the last change from N2.
+
 C1 -> I don't like conflicts!
 C2 -> I really really like conflicts!
 

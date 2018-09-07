@@ -1,3 +1,4 @@
 Writing something at the head of the first file in a new feature.
+This line is commited in branch N2
 My first file
 This line is commited by N1 first
